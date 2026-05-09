@@ -1,7 +1,7 @@
 > [!NOTE]
 > This is a fork of https://github.com/fluxerapp/fluxer
 > It includes modifications of the original project's source code
-> 
+
 > [!CAUTION]
 > I'm repeating it again: Holy smokes, what a ride. Fluxer is taking off much earlier than I'd expected.
 >
